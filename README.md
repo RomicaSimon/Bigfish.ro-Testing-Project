@@ -6,3 +6,12 @@
 3. Test Report
 
 ### Agenda: 
+* App Description
+* Testing Approach
+* Testyng Tools 
+* Testing Types Covered
+* Test Cases Overview
+* Bugs Overview
+* Test Cases Results
+* Conclusions
+* Lessons Learned
